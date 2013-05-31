@@ -1,0 +1,3 @@
+[submodule "rotate.js"]
+	path = rotate.js
+	url = git@github.com:cemrich/rotate.js.git
